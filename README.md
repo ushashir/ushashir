@@ -5,7 +5,7 @@
 <p>I am a software developer with a cumulative of 3 years experience, 1 year of non-commercial experience and 2 years of commercial experience.My skills set include TypeScript, Node.JS, Express, React, JavaScript, HTML, CSS, Boostrap, TDD with Jest, REST APIs, JSON, MySQL, Postgres, MongoDB, Graphql, Git, GitHub, Docker, DockerHub, WordPress, Cpanel Hosting, Heroku.
 </p>
 <p>
-If it will solve a problem, I want to be part of it. Solving problems excites me. My focus is always on the problem, I take my time to think out critically and come up with an optimal solution before converting the solution to clean executable codes.
+If it will solve a problem, I want to be part of it. Solving problems excites me. My focus is always on the problem, I take my time to think out critically and come up with an optimal solution before converting the solution to clean and executable codes.
 </p>
 
 #### Visit my portfolio website and LinkedIn profile for more about me.
