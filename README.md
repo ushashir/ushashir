@@ -3,8 +3,6 @@
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ushashir.ushashir)](https://github.com/ushashir) [![GitHub followers](https://img.shields.io/github/followers/ushashir.svg?style=social&label=Follow)](https://github.com/ushashir?tab=followers)
 
 <p>I am a software developer with a cumulative of 3 years experience, 1 year of non-commercial experience and 2 years of commercial experience.My skills set include TypeScript, Node.JS, Express, React, JavaScript, HTML, CSS, Boostrap, TDD with Jest, REST APIs, JSON, MySQL, Postgres, MongoDB, Graphql, Git, GitHub, Docker, DockerHub, WordPress, Cpanel Hosting, Heroku.
-
-Other skills include Scrum, Agile Methodology, Jira, Communication, Team Coordination. I have used the skill sets listed above to build several projects for clients both as a freelancer and team member in organisations. I have also done collaborative work with other developers using Git and GitHub as collaborative too.
 </p>
 <p>
 If it will solve a problem, I want to be part of it. Solving problems excites me. My focus is always on the problem, I take my time to think out critically and come up with an optimal solution before converting the solution to clean executable codes.
