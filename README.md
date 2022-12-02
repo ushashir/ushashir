@@ -2,15 +2,18 @@
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ushashir.ushashir)](https://github.com/ushashir) [![GitHub followers](https://img.shields.io/github/followers/ushashir.svg?style=social&label=Follow)](https://github.com/ushashir?tab=followers)
 
-<p>I am a software developer with a cumulative of 3 years experience. My skills set include TypeScript, Node.JS, Express, React, JavaScript, HTML, CSS, Boostrap, TDD with Jest, REST APIs, JSON, MySQL, Postgres, MongoDB, Graphql, Git, GitHub, Docker, DockerHub, WordPress, Cpanel Hosting, Heroku.
+<p>I am a software developer with over 4+ years of professional experience.</p>
+<p> My skill sets for frontend includes JavaScript, React, Next.Js HTML/CSS, Boostrap, Tailwind, TDD with Cypress.
 </p>
 <p>
-If it will solve a problem, I want to be part of it. Solving problems excites me. My focus is always on the problem, I take my time to think out critically and come up with an optimal solution before converting the solution to clean and executable codes.
+My skill sets for backend includes Node.Js, TypeScript, Express, REST APIs, MySQL, MongoDB and Graphql.
+</p>
+My skill sets for version control and hosting include Git, GitHub, Docker, DockerHub, CI/CD with GitHub Actions, WordPress, Cpanel Hosting, Heroku.
 </p>
 
 #### Visit my portfolio website and LinkedIn profile for more about me.
 
-<a href="https://ushahembashir.com/">My Website</a>&nbsp;<a href="https://www.linkedin.com/in/ushashir/">LinkedIn</a> 
+<a href="https://usha.com.ng/">My Website</a>&nbsp;<a href="https://www.linkedin.com/in/ushashir/">LinkedIn</a> 
 
 <br />
 
