@@ -4,7 +4,7 @@
 
 <p>I am a software developer with over 4+ years of professional experience.</p>
 <p>
-My skill sets includes Node.Js, TypeScript, Java, Express, NestJS, REST APIs, MySQL, ProsgresQL, MongoDB, Prisma, Git, GitHub, Docker, DockerHub, CI/CD with GitHub Actions, etc.
+My skill sets includes Node.Js, TypeScript, Java, Express, NestJS, REST APIs, MySQL, ProsgresQL, MongoDB, Prisma, Sequelize, Mongoose, Raw SQL, Git, GitHub, Docker, DockerHub, CI/CD with GitHub Actions, etc.
 
 #### Visit my portfolio website and LinkedIn profile for more about me.
 
