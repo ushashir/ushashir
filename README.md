@@ -2,14 +2,9 @@
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ushashir.ushashir)](https://github.com/ushashir) [![GitHub followers](https://img.shields.io/github/followers/ushashir.svg?style=social&label=Follow)](https://github.com/ushashir?tab=followers)
 
-<p>I am a software developer with over 5+ years of professional experience.</p>
-<p> My skill sets for frontend includes JavaScript, React, Next.Js HTML/CSS, Boostrap, Tailwind, TDD with Cypress.
-</p>
+<p>I am a software developer with over 4+ years of professional experience.</p>
 <p>
-My skill sets for backend includes Node.Js, TypeScript, Express, REST APIs, MySQL, MongoDB and Graphql.
-</p>
-My skill sets for version control and hosting include Git, GitHub, Docker, DockerHub, CI/CD with GitHub Actions, WordPress, Cpanel Hosting, Heroku.
-</p>
+My skill sets includes Node.Js, TypeScript, Java, Express, NestJS, REST APIs, MySQL, ProsgresQL, MongoDB, Prisma, Git, GitHub, Docker, DockerHub, CI/CD with GitHub Actions, etc.
 
 #### Visit my portfolio website and LinkedIn profile for more about me.
 
