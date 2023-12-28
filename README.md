@@ -1,4 +1,4 @@
-<h2>Hi I am Ushahemba Shir! 👋</h2>
+<h2>Hi, I am Ushahemba Shir! 👋</h2>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ushashir.ushashir)](https://github.com/ushashir) [![GitHub followers](https://img.shields.io/github/followers/ushashir.svg?style=social&label=Follow)](https://github.com/ushashir?tab=followers)
 
