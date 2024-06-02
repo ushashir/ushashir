@@ -2,7 +2,7 @@
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ushashir.ushashir)](https://github.com/ushashir) [![GitHub followers](https://img.shields.io/github/followers/ushashir.svg?style=social&label=Follow)](https://github.com/ushashir?tab=followers)
 
-<p>I am a software developer with over 4+ years of professional experience.</p>
+<p>I am a software developer with over 5+ years of professional experience.</p>
 <p>
 My skill sets includes Node.Js, TypeScript, Java, Express, NestJS, REST APIs, MySQL, ProsgresQL, MongoDB, Prisma, Sequelize, Mongoose, Raw SQL, Git, GitHub, Docker, DockerHub, CI/CD with GitHub Actions, etc.
 
