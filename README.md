@@ -8,7 +8,7 @@ My skill sets includes Node.Js, TypeScript, Java, Express, NestJS, REST APIs, My
 
 #### Visit my portfolio website and LinkedIn profile for more about me.
 
-<a href="http://ushahembashir.com.ng/">My Website</a>&nbsp;<a href="https://www.linkedin.com/in/ushashir/">LinkedIn</a> 
+<a href="https://ushashir.github.io/ushahembashir.com.ng">My Website</a>&nbsp;<a href="https://www.linkedin.com/in/ushashir/">LinkedIn</a> 
 
 <br />
 
